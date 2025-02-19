@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 # Basic Tool imports
 import requests
 import os, sys
